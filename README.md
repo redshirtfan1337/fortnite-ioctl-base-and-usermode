@@ -1,4 +1,4 @@
-# fortnite ioctl base & usermode
+# fortnite ioctl base and usermode
 
 all files can be found in the discord: https://discord.gg/dxD4CtWC9f
 
